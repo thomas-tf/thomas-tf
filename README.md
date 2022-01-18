@@ -13,10 +13,10 @@
 ## 💼 Work Experience
 | Company                                                            | Role              | Period    |
 | -------------------------------------------------------------------| ----------------- |-----------|
-| [HK01](https://www.hk01.com/) ![](./img/hk01_logo.png) | Data Scientist | 2021 - now |
-| [Ztore](https://www.ztore.com/en/) ![](./img/ztore_logo.png) | Associate Data Scientist | 2020 - 2021|
-| [HKT](https://www.hkt.com/?locale=zh) | Assistant Engineer | 2019 - 2020 |
-| [HKT](https://www.hkt.com/?locale=zh) | Graduate Trainee | 2018 - 2019 |
+| [![](./img/hk01_logo.png)](https://www.hk01.com/) | Data Scientist | 2021 - now |
+| [![](./img/ztore_logo.png)](https://www.ztore.com/en/) | Associate Data Scientist | 2020 - 2021|
+| [![](./img/hkt_logo.png)](https://www.hkt.com/?locale=zh) | Assistant Engineer | 2019 - 2020 |
+| [![](./img/hkt_logo.png)](https://www.hkt.com/?locale=zh) | Graduate Trainee | 2018 - 2019 |
 
 
 ## 📫 How to reach me:
