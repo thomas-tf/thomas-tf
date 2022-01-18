@@ -8,7 +8,14 @@
 - 🔰 Beginner @ [Kaggle](https://www.kaggle.com/thomastf)
 
 ## 🖥️ Projects
-- ![](./img/kaggle_icon.png)PetFinder.my - Pawpularity Contest. ![](./img/silver_medal.png) Rank: 22/3,545
+|                                 | Project                                                                        |
+| --------------------------------| -------------------------------------------------------------------------------|
+| ![](./img/kaggle_icon.png)      | PetFinder.my - Pawpularity Contest. ![](./img/silver_medal.png) Rank: 22/3,545 | 
+| ![](./img/hk01_logo_small.png)  | Content Recommendation System.                                                 |
+| ![](./img/hk01_logo_small.png)  | Content Representation Learning.                                               |
+| ![](./img/ztore_logo_small.png) | E-commerce Product Dynamic Pricing.                                            |
+| ![](./img/ztore_logo_small.png) | Warehouse Order Batching Optimization.                                         |
+| ![](./img/hkt_logo_small.jpeg)  | Cell Sites Anomaly Detection System. (POC)                                     |
 
 ## 💼 Work Experience
 | Company                                                            | Role              | Period    |
