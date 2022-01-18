@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there 👋, this is Thomas.
+![](https://komarev.com/ghpvc/?username=thomas-tf) ![thomas-tf](https://road-to-kaggle-grandmaster.vercel.app/api/simple/thomastf)
 
-<!--
-**thomas-tf/thomas-tf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 About Me
+- Data Scientist @ [HK01](https://www.hk01.com/)
+- Part-time Msc in Big Data Technology @ [HKUST](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt)
+- Bsc in Computer Science (1st class) @ [University of Liverpool](https://www.liverpool.ac.uk/study/undergraduate/courses/computer-science-bsc-hons/overview/)
+- Beginner @ [Kaggle](https://www.kaggle.com/thomastf)
 
-Here are some ideas to get you started:
+## Projects
+- PetFinder.my - Pawpularity Contest 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Work Experience
+| Company                                                            | Role              | Period    |
+| -------------------------------------------------------------------| ----------------- |-----------|
+| [HK01](https://www.hk01.com/) | Data Scientist | 2021 - now |
+| [Ztore](https://www.ztore.com/en/) | Associate Data Scientist | 2020 - 2021|
+| [HKT](https://www.hkt.com/?locale=zh) | Assistant Engineer | 2019 - 2020 |
+| [HKT](https://www.hkt.com/?locale=zh) | Graduate Trainee | 2018 - 2019 |
+
+
+## 📫 How to reach me:
+- [Kaggle](https://www.kaggle.com/thomastf)
+- [Linkedin](https://hk.linkedin.com/in/thomas-wong-861775145)
+
+
