@@ -8,7 +8,7 @@
 - Beginner @ [Kaggle](https://www.kaggle.com/thomastf)
 
 ## Projects
-- PetFinder.my - Pawpularity Contest 
+- ![](./img/kaggle_icon.png)PetFinder.my - Pawpularity Contest 
 
 ## 💼 Work Experience
 | Company                                                            | Role              | Period    |
