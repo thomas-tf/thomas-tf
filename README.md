@@ -8,7 +8,7 @@
 - Beginner @ [Kaggle](https://www.kaggle.com/thomastf)
 
 ## Projects
-- ![](./img/kaggle_icon.png)PetFinder.my - Pawpularity Contest 
+- ![](./img/kaggle_icon.png)PetFinder.my - Pawpularity Contest. ![](./img/silver_medal.png) Rank: 22/3,545
 
 ## 💼 Work Experience
 | Company                                                            | Role              | Period    |
