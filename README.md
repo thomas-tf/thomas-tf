@@ -20,5 +20,5 @@
 
 
 ## 📫 How to reach me:
-- [Kaggle](https://www.kaggle.com/thomastf)
-- [Linkedin](https://hk.linkedin.com/in/thomas-wong-861775145)
+- ![](./img/kaggle_icon.png) [Kaggle](https://www.kaggle.com/thomastf)
+- ![](./img/linkedin_icon.png) [Linkedin](https://hk.linkedin.com/in/thomas-wong-861775145)
