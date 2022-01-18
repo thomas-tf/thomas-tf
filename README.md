@@ -2,12 +2,12 @@
 ![](https://komarev.com/ghpvc/?username=thomas-tf) ![thomas-tf](https://road-to-kaggle-grandmaster.vercel.app/api/simple/thomastf)
 
 ## 🔭 About Me
-- Data Scientist @ [HK01](https://www.hk01.com/)
-- Part-time Msc in Big Data Technology @ [HKUST](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt)
-- Bsc in Computer Science (1st class) @ [University of Liverpool](https://www.liverpool.ac.uk/study/undergraduate/courses/computer-science-bsc-hons/overview/)
-- Beginner @ [Kaggle](https://www.kaggle.com/thomastf)
+- Data Scientist 👨🏻‍🔬 @ [HK01](https://www.hk01.com/)
+- Part-time Msc in Big Data Technology 🧑🏻‍🎓 @ [HKUST](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt)
+- Bsc in Computer Science (1st class) 🎓 @ [University of Liverpool](https://www.liverpool.ac.uk/study/undergraduate/courses/computer-science-bsc-hons/overview/)
+- Beginner 🔰 @ [Kaggle](https://www.kaggle.com/thomastf)
 
-## Projects
+## 🖥️ Projects
 - ![](./img/kaggle_icon.png)PetFinder.my - Pawpularity Contest. ![](./img/silver_medal.png) Rank: 22/3,545
 
 ## 💼 Work Experience
@@ -22,5 +22,3 @@
 ## 📫 How to reach me:
 - [Kaggle](https://www.kaggle.com/thomastf)
 - [Linkedin](https://hk.linkedin.com/in/thomas-wong-861775145)
-
-
