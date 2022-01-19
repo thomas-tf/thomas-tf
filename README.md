@@ -2,8 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=thomas-tf) ![thomas-tf](https://road-to-kaggle-grandmaster.vercel.app/api/simple/thomastf)
 
 ## 🔭 About Me
-- 👨🏻‍🔬 Data Scientist @ [HK01](https://www.hk01.com/)
-- 🧑🏻‍🎓 Part-time Msc in Big Data Technology @ [HKUST](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt)
+- 🧪 Data Scientist @ [HK01](https://www.hk01.com/)
+- 📚 Part-time Msc in Big Data Technology @ [HKUST](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt)
 - 🎓 Bsc in Computer Science (1st class) @ [University of Liverpool](https://www.liverpool.ac.uk/study/undergraduate/courses/computer-science-bsc-hons/overview/)
 - 🔰 Beginner @ [Kaggle](https://www.kaggle.com/thomastf)
 
