@@ -10,7 +10,7 @@
 ## 🖥️ Projects
 |                                 | Project                                                                        |
 | --------------------------------| -------------------------------------------------------------------------------|
-| ![](./img/kaggle_icon.png)      | [PetFinder.my - Pawpularity Contest.](https://www.kaggle.com/c/petfinder-pawpularity-score/leaderboard) ![](./img/silver_medal.png) Rank: 22/3,545 | 
+| ![](./img/kaggle_icon.png)      | [PetFinder.my - Pawpularity Contest.](https://www.kaggle.com/c/petfinder-pawpularity-score/leaderboard) ![](./img/silver_medal.png) Rank: 22/3,545 (Top 1%) | 
 | ![](./img/hk01_logo_small.png)  | Content Recommendation System.                                                 |
 | ![](./img/hk01_logo_small.png)  | Content Representation Learning.                                               |
 | ![](./img/ztore_logo_small.png) | E-commerce Product Dynamic Pricing.                                            |
