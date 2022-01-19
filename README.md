@@ -15,6 +15,7 @@
 | ![](./img/hk01_logo_small.png)  | Content Representation Learning.                                               |
 | ![](./img/ztore_logo_small.png) | E-commerce Product Dynamic Pricing.                                            |
 | ![](./img/ztore_logo_small.png) | Warehouse Order Batching Optimization.                                         |
+| ![](./img/ztore_logo_small.png) | Streaming Scio Pipeline (Written in Scala)                                     |
 | ![](./img/hkt_logo_small.jpeg)  | Cell Sites Anomaly Detection System. (POC)                                     |
 
 ## 💼 Work Experience
