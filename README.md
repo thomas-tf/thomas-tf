@@ -22,7 +22,7 @@
 | Company                                                            | Role              | Period    |
 | -------------------------------------------------------------------| ----------------- |-----------|
 | [![](https://www.societegenerale.ch/typo3conf/ext/bi_template/themes/default/res/favicon/favicon-64.png)](https://www.societegenerale.ch/en/our-offer/corporate-and-investment-banking/) | Software Engineer | 2022 - now |
-| [![](./img/hk01_logo.png)](https://www.hk01.com/) | Data Scientist | 2021 - now |
+| [![](./img/hk01_logo.png)](https://www.hk01.com/) | Data Scientist | 2021 - 2022 |
 | [![](./img/ztore_logo.png)](https://www.ztore.com/en/) | Associate Data Scientist | 2020 - 2021|
 | [![](./img/hkt_logo.png)](https://www.hkt.com/?locale=zh) | Assistant Engineer | 2019 - 2020 |
 | [![](./img/hkt_logo.png)](https://www.hkt.com/?locale=zh) | Graduate Trainee | 2018 - 2019 |
