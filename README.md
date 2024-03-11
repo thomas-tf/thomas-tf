@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=thomas-tf) ![thomas-tf](https://road-to-kaggle-grandmaster.vercel.app/api/simple/thomastf)
 
 ## 🔭 About Me
-- 🧪 Data Scientist @ [HK01](https://www.hk01.com/)
+- 🧪 Software Engineer @ [SocGen CIB](https://www.societegenerale.ch/en/our-offer/corporate-and-investment-banking/)
 - 📚 Msc in Big Data Technology @ [HKUST](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt)
 - 🎓 Bsc in Computer Science (1st class) @ [University of Liverpool](https://www.liverpool.ac.uk/study/undergraduate/courses/computer-science-bsc-hons/overview/)
 - 🔰 Beginner @ [Kaggle](https://www.kaggle.com/thomastf)
@@ -21,7 +21,7 @@
 ## 💼 Work Experience
 | Company                                                            | Role              | Period    |
 | -------------------------------------------------------------------| ----------------- |-----------|
-| [![](https://www.societegenerale.ch/typo3conf/ext/bi_template/themes/default/res/favicon/favicon-64.png)](https://www.societegenerale.ch/en/our-offer/corporate-and-investment-banking/) | Software Engineer | 2022 - now |
+| [![](https://www.societegenerale.ch/typo3conf/ext/bi_template/themes/default/res/favicon/favicon-64.png)](https://www.societegenerale.ch/en/our-offer/corporate-and-investment-banking/) | Software Engineer | 2022 - 2023 |
 | [![](./img/hk01_logo.png)](https://www.hk01.com/) | Data Scientist | 2021 - 2022 |
 | [![](./img/ztore_logo.png)](https://www.ztore.com/en/) | Associate Data Scientist | 2020 - 2021|
 | [![](./img/hkt_logo.png)](https://www.hkt.com/?locale=zh) | Assistant Engineer | 2019 - 2020 |
